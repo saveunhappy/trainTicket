@@ -18,7 +18,7 @@
     <resource url="http://mybatis.org/dtd/mybatis-3-config.dtd" location="$PROJECT_DIR$/../../鲁大师/mybatis-3-config.dtd" />
     <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$PROJECT_DIR$/../../鲁大师/mybatis-3-mapper.dtd" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="ProjectType">
